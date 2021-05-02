@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "155073674831",
+    "firebase_url": "https://retrend-eabbe.firebaseio.com",
+    "project_id": "retrend-eabbe",
+    "storage_bucket": "retrend-eabbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155073674831:android:3ed27f0d2caa67386e343a",
+        "android_client_info": {
+          "package_name": "com.example.mdc100series"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155073674831-48qqlki0ad2govgil365itm6iu2i4pbp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy5xw7j9kzoh_q9YmjmEk3PA6sM4b6k5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155073674831-48qqlki0ad2govgil365itm6iu2i4pbp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
